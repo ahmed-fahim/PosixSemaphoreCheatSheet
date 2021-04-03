@@ -1,0 +1,3 @@
+/cygdrive/f/Works/1. Self Development/Development/CPP Projects/PosixSemaphore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/f/Works/1. Self Development/Development/CPP Projects/PosixSemaphore/cmake-build-debug/CMakeFiles/PosixSemaphore.dir
+/cygdrive/f/Works/1. Self Development/Development/CPP Projects/PosixSemaphore/cmake-build-debug/CMakeFiles/edit_cache.dir

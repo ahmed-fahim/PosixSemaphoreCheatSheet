@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/f/Works/1. Self Development/Development/CPP Projects/PosixSemaphore/main.cpp
+stdio.h
+-
+unistd.h
+-
+semaphore.h
+-
+sys/fcntl.h
+-
+
